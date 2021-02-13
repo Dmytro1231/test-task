@@ -1,0 +1,20 @@
+<svg id="Circles" xmlns="http://www.w3.org/2000/svg" width="174" height="172" viewBox="0 0 174 172">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f5f9;
+        opacity: 0.25;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" d="M565,3145.02c48.048,0,87,38.49,87,85.98s-38.952,85.99-87,85.99-87-38.5-87-85.99S516.951,3145.02,565,3145.02Z" transform="translate(-478 -3145)"/>
+  <path class="cls-2" d="M565.191,3156.31a75.986,75.986,0,1,1-76.274,75.98A76.129,76.129,0,0,1,565.191,3156.31Z" transform="translate(-478 -3145)"/>
+</svg>
